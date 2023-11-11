@@ -8,6 +8,7 @@ A super awesome program to help you learn to code
 
 ## What this isn't
 - *NOT* a job guarantee program
+- *NOT* a certification program
 
 ## Course Outline
 
