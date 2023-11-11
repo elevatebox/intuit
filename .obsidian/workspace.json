@@ -8,14 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "219abf10298212c4",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "3e1e859e711c56ee",
             "type": "leaf",
             "state": {
@@ -27,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -57,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Sqlite",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,7 +57,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -146,8 +138,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3e1e859e711c56ee",
+  "active": "e7ce10fa6555ea88",
   "lastOpenFiles": [
-    "Readme.md"
+    "DIAGRAMS.md",
+    "Readme.md",
+    "Excalidraw",
+    "Untitled.md"
   ]
 }

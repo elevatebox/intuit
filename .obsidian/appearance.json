@@ -3,5 +3,7 @@
   "theme": "system",
   "cssTheme": "GitHub Theme",
   "translucency": true,
-  "baseFontSize": 20
+  "baseFontSize": 17,
+  "enabledCssSnippets": [],
+  "textFontFamily": "Inter"
 }
