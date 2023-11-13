@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d441d866c9f33811",
+        "id": "f082b08a721b1918",
         "type": "tabs",
         "children": [
           {
-            "id": "3e1e859e711c56ee",
+            "id": "7c340079a9798930",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a613cc30ad46c2a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "outline.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -57,8 +70,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -78,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Readme.md",
+                "file": "outline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Readme.md",
+                "file": "outline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Readme.md"
+                "file": "outline.md"
               }
             }
           }
@@ -135,14 +147,20 @@
       "graph:Open graph view": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e7ce10fa6555ea88",
+  "active": "a613cc30ad46c2a1",
   "lastOpenFiles": [
-    "DIAGRAMS.md",
     "Readme.md",
-    "Excalidraw",
-    "Untitled.md"
+    "outline.md",
+    "Pasted image 20231112012451.png",
+    "intuit.md",
+    "skillgap.md",
+    "Drawing 2023-11-12 01.26.54.excalidraw.md",
+    "DIAGRAMS.md",
+    "Excalidraw"
   ]
 }

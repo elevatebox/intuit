@@ -22,6 +22,7 @@ A super awesome program to help you learn to code
 - Keyboard is your best friend
 - Let's go full hacker mode w/ command line
 - Version control is magical
+- Docker
 
 ### Web Development
 
@@ -53,6 +54,7 @@ A super awesome program to help you learn to code
 - Promises and Async Programming
 - HTTP and The Fetch API
 
+#### Let's build a weather app
 #### Typescript is the way forward
 
 #### The Backend
